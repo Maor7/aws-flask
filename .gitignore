@@ -1,0 +1,5 @@
+.eggs/
+build/
+dist/
+helloworld.egg-info/
+.git
